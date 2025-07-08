@@ -2,8 +2,6 @@
 
 A user-friendly platform for creating, updating, deleting, and downloading resumes with styled templates in minutes. Designed for easy customization and editing.
 
-![Resume Editor Screenshot](https://res.cloudinary.com/driaaeuhp/image/upload/v1719749107/myPortfolio/private/zip1dtpbb6lx9hk81dtq.png)
-
 ## Features
 
 - Create, update, and delete resumes.
